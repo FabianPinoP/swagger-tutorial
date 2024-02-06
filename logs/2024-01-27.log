@@ -1,0 +1,12 @@
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Sat Jan 27 2024 11:38:05 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 200 message:  Time response: 136 ms Request ID: [57adfa33-9480-4496-9ca5-f094080ca276]
+
+Started PUT /api/v1/travels for :: ::ffff:127.0.0.1 at Sat Jan 27 2024 13:10:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"completed":true}
+Completed: 404 message:  Time response: 5 ms Request ID: [0834b603-4276-425f-94ca-74f03468f4e5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Sat Jan 27 2024 13:16:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 200 message:  Time response: 108 ms Request ID: [59f91ab7-7f0a-475f-a451-7935d5b09aa8]

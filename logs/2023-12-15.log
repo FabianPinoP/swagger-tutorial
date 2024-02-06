@@ -1,0 +1,168 @@
+
+Started POST /product for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:49:12 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 404 message:  Time response: 6 ms Request ID: [f2d444ce-10dd-4ed7-9c07-e7550e0a8729]
+
+Started POST /products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:49:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 201 message:  Time response: 4 ms Request ID: [b25a2a6b-3437-4bf2-a01f-9e651f1bd6d2]
+
+Started GET /products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:49:26 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 200 message:  Time response: 2 ms Request ID: [27ed619d-0aec-4f18-8f8f-efe8f0d1ada0]
+
+Started GET /products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:01 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 404 message:  Time response: 5 ms Request ID: [9069dd17-c7f8-4941-b965-9b2bb729168e]
+
+Started GET /products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 404 message:  Time response: 2 ms Request ID: [8c7a200b-5d8c-43f7-9a78-4d036c8e1c13]
+
+Started GET /api/products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 200 message:  Time response: 3 ms Request ID: [bdd283fe-ecca-4ab3-a409-b2631fa01878]
+
+Started GET /api/products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 200 message:  Time response: 2 ms Request ID: [e966b29d-f580-4dc9-9c7b-89940471c2a5]
+
+Started GET /api/products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 200 message:  Time response: 1 ms Request ID: [7019aa8a-5973-4eea-87cb-fad38de7dac1]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 200 message:  Time response: 7 ms Request ID: [bbde0bd8-a2b4-4c04-9187-d904a4ed01f0]
+
+Started POST /api/v1/products for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 12:50:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 201 message:  Time response: 2 ms Request ID: [2d56f202-049e-4b6a-8263-25d51e38eea7]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 13:20:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 404 message:  Time response: 5 ms Request ID: [f97a4c43-a112-4e73-98df-ba0aace1b540]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 13:20:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"id":5,"nombre":"plancha","price":12000}
+Completed: 200 message:  Time response: 19 ms Request ID: [6946adb2-9b4b-4a30-b393-501d31cf37d1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:01:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 22 ms Request ID: [3160e95c-3f1d-4e0a-aa53-25e838f70d8a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:02:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [a699c40b-fedc-426d-abee-5fe60290ffb1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:10:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 38 ms Request ID: [a4aa2408-7e03-46fb-a8df-ecc20841d42d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:11:52 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 25 ms Request ID: [1707af40-b94a-4522-9b05-95e34f68a490]
+
+Started POST /api/v1/productos for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:26:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"producto":{"id":1,"destino":"CHILE","presupuesto":10000}}
+Completed: 404 message:  Time response: 5 ms Request ID: [75be4198-2ae0-498e-b5eb-004818f580b5]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:27:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"producto":{"id":1,"destino":"CHILE","presupuesto":10000}}
+Completed: 201 message:  Time response: 7 ms Request ID: [550fd89f-fd20-4f50-b5fc-e67f5ee74a08]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:27:33 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"producto":{"id":1,"destino":"CHILE","presupuesto":10000}}
+Completed: 201 message:  Time response: 6 ms Request ID: [7c434534-ada9-4958-812e-16be63cbc180]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:27:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"producto":{"id":1,"destino":"CHILE","presupuesto":10000}}
+Completed: 201 message:  Time response: 26 ms Request ID: [b37150ca-006a-4388-afc2-e4fc7103743b]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:28:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"producto":{"id":1,"destino":"CHILE","presupuesto":10000}}
+Completed: 201 message:  Time response: 22 ms Request ID: [82936c2c-01e7-4228-b442-f582946348b7]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:28:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"producto":{"destino":"ARGENTINA","presupuesto":100000}}
+Completed: 201 message:  Time response: 10 ms Request ID: [5ff5fcbd-d638-46e8-92e8-2054bd473b90]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:30:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"ARGENTINA","presupuesto":100000}}
+Completed: 500 message:  Time response: 4 ms Request ID: [e41face2-e1ea-4fa8-a327-c5fb20f65458]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:30:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BRAZIL","presupuesto":1000}}
+Completed: 201 message:  Time response: 20 ms Request ID: [6b05d504-fe12-4dcd-b167-c62fe165a6c0]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:32:01 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"PERU","presupuesto":1000}}
+Completed: 201 message:  Time response: 24 ms Request ID: [868418d4-7cd5-41e3-8fa6-0c8ef48173e6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:32:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [7432d6a9-0457-412c-952a-93e638569832]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:35:33 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 20 ms Request ID: [fbb8641e-6018-426c-b18f-f12c24f5ed44]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:35:52 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 32 ms Request ID: [531790b1-58a7-47e1-beb6-0e761daf97a0]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:36:09 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 26 ms Request ID: [eb70b6ce-1983-4a96-82b1-d3489cda9d8b]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:36:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 34 ms Request ID: [f9d6097b-fbf4-45d7-972d-5bc9a8310fcc]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:37:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 20 ms Request ID: [9c413151-2b23-4e98-92c9-109917030e61]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:39:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 20 ms Request ID: [0ae4c930-3f23-4f6f-a610-cc775936f383]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:39:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 20 ms Request ID: [8c46c9c2-4695-45fe-94d1-788a062d25da]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 14:41:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"BOLIVIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 36 ms Request ID: [d73b08b5-99a4-4984-a55e-37bb9896cadf]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 16:33:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"PANAMA","presupuesto":1000}}
+Completed: 201 message:  Time response: 50 ms Request ID: [20ce3e3f-3a80-4e2f-ac01-b4ab40b2835f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 16:35:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 25 ms Request ID: [a40208b0-bb08-48da-8ec4-bdde19099293]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 16:36:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"SUECIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 11 ms Request ID: [5f123c7e-8dcf-4b06-97cd-eaeb2577e835]
+
+Started GET /api/v1/sessions for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 16:59:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [bffbc454-a4fa-4c08-bc89-308c2c6b6988]
+
+Started GET /api/v1/sessions for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 17:00:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [38d44a88-1c90-41dc-9448-d9a3f18923cb]
+
+Started GET /api/v1/sessions for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 17:00:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [bd85275f-dbbc-4d48-97c1-01053261f364]
+
+Started GET /api/v1/sessions for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 17:02:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1335 ms Request ID: [6a62af92-029f-40e4-b7d0-816c9bc8ea20]
+
+Started GET /api/v1/sessions for :: ::ffff:127.0.0.1 at Fri Dec 15 2023 17:03:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1403 ms Request ID: [525814d3-532c-4abc-8487-2df30fbeabb5]

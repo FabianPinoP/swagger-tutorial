@@ -1,0 +1,216 @@
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 09:33:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 55 ms Request ID: [bc371299-3a78-4756-b56e-03231c87ddaf]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 09:43:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 09:43:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 26 ms Request ID: [3d2d4614-10af-4007-b5df-e54bc577dd66]
+
+Started GET /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 09:43:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 14 ms Request ID: [77d09105-6fff-4878-85b8-1b711f5af96d]
+
+Started GET /api/v1/travels/8 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 09:43:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [aeecb073-8669-4bb6-be48-2cfe02cc3d3b]
+
+Started GET /api/v1/travels_with_limit?limit=4 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:21:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 36 ms Request ID: [cf5ada8b-ba4c-4d1a-9b6d-d58b9d8b8952]
+
+Started GET /api/v1/travels_with_limit?limit=1 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:22:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [9ebc0188-d8c4-4117-9768-e68797610e8f]
+
+Started GET /api/v1/travels_with_limit?limit=2 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:22:05 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [a9e712f8-b2e5-4014-a72d-2ff5619e3c13]
+
+Started GET /api/v1/travels_with_limit?limit=3%20 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:22:10 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [f19d0c81-5485-4bb9-985c-d24cce0ed0b8]
+
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:23:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:24:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:24:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 38 ms Request ID: [c0004f7f-f0ed-4864-b0fc-4733ad867bb5]
+
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:27:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 39 ms Request ID: [22b4ed9e-d760-4560-a5c6-1308b383e530]
+
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:28:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 47 ms Request ID: [e9ef9b59-92ff-484f-bc41-8de180304350]
+
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:28:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 65 ms Request ID: [41989819-e09a-437a-80cb-f5f9efeb2791]
+
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:31:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 22 ms Request ID: [dbb8b941-79c3-4cb5-a5a0-066f406f7697]
+
+Started GET /api/v1/travels_with_limit?limit=lllslslsls for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:31:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 18 ms Request ID: [31d9b4eb-d2f9-4661-9651-3caaddf9bee2]
+
+Started GET /api/v1/travels_with_limit?limit=10 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:35:46 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 23 ms Request ID: [ce24a539-eff4-4b4b-9823-3d1cd5a855e6]
+
+Started GET /api/v1/travels_with_limit for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:36:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 26 ms Request ID: [2eaf3ea1-6369-4082-86d5-06458a2e9b86]
+
+Started GET /api/v1/travels_with_limit?limit=1 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:36:59 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [1b776ce9-42f3-4e5e-9640-c998d878dff7]
+
+Started GET /api/v1/travels_with_limit for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:37:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 23 ms Request ID: [a2c1b110-1909-4238-891d-118eefcfaf65]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:45:17 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 59 ms Request ID: [6ca4452e-dd30-4929-bd35-e656f3366371]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:45:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [64d4ede8-3ffe-4287-abe3-4e018d0515eb]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:45:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 46 ms Request ID: [d2716542-a550-4c38-8d1e-00167751a456]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=presupuesto_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:48:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 28 ms Request ID: [fc1b0e60-76a3-4bfd-ad8f-132f00fd525b]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:49:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [4856b043-0488-4561-a7f8-dd62f03fd8a2]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:50:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 25 ms Request ID: [f2ba5edb-f43f-4c09-8f62-cf903a33c7fd]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:51:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [cd16d714-13c0-425a-9c6f-df55836286b3]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:52:16 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [4dd8a2b9-eb50-4a82-9f36-6e3b7de3be0f]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:52:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [40858b3f-980e-4e8d-8862-e0c997cdeb92]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=11 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:52:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 16 ms Request ID: [76b8c1ec-03a5-4143-9009-b0de48f9d198]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=1 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:52:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [4329e831-e419-4ce7-b5a7-56727ba61db5]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=1 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:55:43 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [676a930c-efac-4580-9807-eabde00d484c]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=2 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:55:54 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [8f111cb1-93bf-467d-b6f7-e6a46bc6a664]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=3 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:55:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [d9ed581c-e05a-45bd-af3c-e3b5587df3a2]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=4 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:56:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [12672b58-37b7-42d9-844c-219a5d0877fe]
+
+Started GET /api/v1/travels_with_limit_and_order?limit=2&order_by=id_DESC&page=0 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:56:05 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [6c7a1ef7-25d9-428d-aeff-54fd62f61b0e]
+
+Started GET /api/v1/travels_with_pagination?items=2&page=2 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:59:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [586ed8dc-00b3-48da-99c7-d085e631b63a]
+
+Started GET /api/v1/travels_with_pagination?items=2&page=1 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:59:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [b58f49f9-c007-4b0d-b1d3-2f56fb755cb6]
+
+Started GET /api/v1/travels_with_pagination?items=2&page=3 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:59:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [c479d4c9-eaf5-4fc0-8116-90642ccce149]
+
+Started GET /api/v1/travels_with_pagination?items=4&page=3 for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 19:59:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1 ms Request ID: [1cafefc4-b85d-4926-bf24-d0a81e70a0a9]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:14:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 52 ms Request ID: [342a971c-a280-4e00-9d70-49369bf751bd]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:16:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 25 ms Request ID: [e134de04-e6ba-48d5-8e56-fa7ffd275d14]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:18:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 19 ms Request ID: [9802c580-5676-415c-ace4-86a697d79a83]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:19:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"destino":"playa fea","presupuesto":40000}}
+Completed: 200 message:  Time response: 11 ms Request ID: [30cf39ea-b721-423e-96de-9f2672315c25]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:20:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"destino":"playa fea","presupuesto":40000,"agencia":"latam"}}
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:23:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"destino":"playa fea","presupuesto":40000,"agencia":"latam"}}
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:24:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 20 ms Request ID: [093d81b9-4bf4-44fb-9842-d6f388115a2f]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:30:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 21 ms Request ID: [850105e1-365a-4a72-882e-7f39d0681835]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:30:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":10000}}
+Completed: 200 message:  Time response: 2 ms Request ID: [962752e4-7b9c-4870-b431-d5f8759e8af7]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:30:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":20000}}
+Completed: 200 message:  Time response: 2 ms Request ID: [41bd1240-62d4-4f13-823c-e468ba07e42a]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:30:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 2 ms Request ID: [070313d0-709e-4811-a584-61779042e836]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:34:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":1,"filters":{"presupuesto":40000}}
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:35:30 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":1,"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 19 ms Request ID: [7f01be12-5a8a-470e-b2c0-48d12bb07af0]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:35:59 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":2,"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 7 ms Request ID: [dd64b5f2-f3b0-41e9-a230-bc137fc25447]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:43:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":2,"filters":{"destino":"playa fea","presupuesto":40000}}
+Completed: 200 message:  Time response: 33 ms Request ID: [21cb6971-c26e-42c8-9dfc-3d19b4fe4c4f]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 20:47:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":2,"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 10 ms Request ID: [c7ff6b29-6179-4805-bd25-d025d7d60970]

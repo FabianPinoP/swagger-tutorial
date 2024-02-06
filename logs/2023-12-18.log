@@ -1,0 +1,36 @@
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 19:53:09 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1106 ms Request ID: [e4e05f99-30db-4bd7-8628-40690be78b91]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 19:53:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 14 ms Request ID: [bb68aeea-48d2-43c2-9641-279b91939b19]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 19:59:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 36 ms Request ID: [26ecbe3d-81b3-44e8-895e-006e7e806e0a]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 20:05:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"SUECIA","presupuesto":1000}}
+Completed: 201 message:  Time response: 6 ms Request ID: [c24ab9b7-7697-4383-b751-9e078cc7eef7]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 20:07:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"sao paulo","presupuesto":1000}}
+Completed: 201 message:  Time response: 22 ms Request ID: [e277cc4a-41c6-4860-bbca-9306d959daa5]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 20:08:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"sao paulo","presupuesto":1000}}
+Completed: 201 message:  Time response: 17 ms Request ID: [849366c9-de78-41db-8970-d46734819f7d]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 20:09:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"MAR DEL PLATA","presupuesto":1000}}
+Completed: 201 message:  Time response: 17 ms Request ID: [173066f9-3b21-49fd-a669-f70b507bb9ce]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 20:09:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"MAR DEL PLATA","presupuesto":1000}}
+Completed: 201 message:  Time response: 22 ms Request ID: [92129f3a-848f-4722-85f8-cb96782b5acb]
+
+Started GET /api/v1/sessions for :: ::ffff:127.0.0.1 at Mon Dec 18 2023 20:35:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 403 ms Request ID: [f94aa565-fead-474b-b181-8c3e28297215]

@@ -1,0 +1,178 @@
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:13:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"likeMe":{"titulo":"MAR DEL PLATA","descripcion":"playa linda","img":"img","likes":1}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c3967415-6055-49c8-9253-42f378bcc51b]
+
+Started GET /api/v1/posts for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:13:52 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"likeMe":{"titulo":"MAR DEL PLATA","descripcion":"playa linda","img":"img","likes":1}}
+Completed: 404 message:  Time response: 2 ms Request ID: [a33f0e4d-b2dd-4e32-a460-cb9b6ff20c98]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:14:10 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"likeMe":{"titulo":"MAR DEL PLATA","descripcion":"playa linda","img":"img","likes":1}}
+Completed: 200 message:  Time response: 40 ms Request ID: [6820b9de-bd5a-400e-b3e4-380ef7c5a69c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:15:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"likeMe":{"titulo":"MAR DEL PLATA","descripcion":"playa linda","img":"img","likes":1}}
+Completed: 200 message:  Time response: 8 ms Request ID: [8a3fa48d-6649-4963-90a9-7b219a69d5d2]
+
+Started PUT /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:23:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [f594095e-64d8-444c-8609-beea97f6c5e9]
+
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:23:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:24:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [d9962fa3-8fde-417f-8c23-b940886a21ec]
+
+Started PUT /api/v1/travels/1?name=fabian for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:25:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [53337c86-531a-4e53-9569-ee80e208ce19]
+
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:26:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"name":"fabian"}
+Completed: 200 message:  Time response: 4 ms Request ID: [201a513e-3005-4bd3-a8a7-eab94a399354]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:32:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travels":{"titulo":"MAR DEL PLATA","descripcion":"playa linda","img":"img","likes":1}}
+Completed: 500 message:  Time response: 10 ms Request ID: [f9bf3e57-d568-4cc2-b5bd-46ac6aa7c319]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:32:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travels":{"titulo":"MAR DEL PLATA","descripcion":"playa linda","img":"img","likes":1}}
+Completed: 200 message:  Time response: 19 ms Request ID: [afad62ac-cbeb-4a33-b978-3517622d475a]
+
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:33:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"presupuesto":20000}
+Completed: 200 message:  Time response: 48 ms Request ID: [fc33a204-1063-45e6-b356-26285b64113c]
+
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:33:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"presupuesto":30000}
+Completed: 200 message:  Time response: 18 ms Request ID: [6aeb7eab-a6cf-42d7-b497-0b93a772e3d3]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:34:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travels":{"destino":"playa linda","presupuesto":"img"}}
+Completed: 500 message:  Time response: 5 ms Request ID: [f7628cc2-5661-409b-ad5c-12455f707aff]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:35:12 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa linda","presupuesto":"img"}}
+Completed: 201 message:  Time response: 13 ms Request ID: [ce5659f3-5ee7-4215-8e9c-7af6fb0be0b0]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:35:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa linda","presupuesto":"img"}}
+Completed: 200 message:  Time response: 9 ms Request ID: [3bb84c03-29cf-4a5b-8da1-32c97dd2ff88]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:36:11 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa linda","presupuesto":40000}}
+Completed: 201 message:  Time response: 30 ms Request ID: [936be9e6-0a7e-4abd-9054-233dee24fa54]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:36:52 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa fea","presupuesto":40000}}
+Completed: 201 message:  Time response: 15 ms Request ID: [caa60fae-0fb9-46b1-ba9c-084da8b1b219]
+
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:37:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"presupuesto":30000}}
+Completed: 200 message:  Time response: 15 ms Request ID: [2ee3f85e-7f1a-47cf-866c-567584d645ac]
+
+Started PUT /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:38:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"presupuesto":50000}}
+Completed: 200 message:  Time response: 19 ms Request ID: [9cd63ce0-3c43-4459-99e4-36e917c52f4b]
+
+Started DELETE /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:49:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [8e0e1b05-924e-4237-8ef9-2fd7372c8aec]
+
+Started DELETE /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:53:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started DELETE /api/v1/travels/1 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:55:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 46 ms Request ID: [615c1011-11e6-4ae5-9b16-1c8c8be6ccaa]
+
+Started DELETE /api/v1/travels/2 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:55:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [5d09b074-536f-4be7-9506-aac3102fac51]
+
+Started DELETE /api/v1/travels/3 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:56:09 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [d0114561-9f05-4e8b-a1cb-53a9678b2d51]
+
+Started DELETE /api/v1/travels/3 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:58:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 18 ms Request ID: [fda6c4a7-4ea9-4e12-98a1-a0d1deb337c7]
+
+Started DELETE /api/v1/travels/4 for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 19:59:05 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [e8255202-06ab-49aa-be77-73999ea2b9b6]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:10:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Completed: 201 message:  Time response: 23 ms Request ID: [fb733eb1-8b04-40ba-8ba0-b29888c428d1]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:13:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Completed: 201 message:  Time response: 24 ms Request ID: [35f9b55d-9609-4ced-871f-5828170faac3]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:14:41 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Completed: 201 message:  Time response: 35 ms Request ID: [9e90a5be-9f93-4061-afe9-1f5503f8b732]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:16:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Completed: 500 message:  Time response: 35 ms Request ID: [1efad19b-2712-49a7-b7f6-ca559ffd8526]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:26:46 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:27:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:27:46 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:28:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:29:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:29:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:30:10 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:30:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:31:11 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:31:30 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:31:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:32:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:32:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:33:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:33:26 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:33:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:34:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:34:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa test"}}
+Completed: 400 message:  Time response: 23 ms Request ID: [def7b230-923f-406f-a7d0-1e2b45ba8306]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:35:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa fea","presupuesto":40000}}
+Completed: 201 message:  Time response: 20 ms Request ID: [a2fe5c89-a82c-4fe2-8e30-c439a04d9eda]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:35:12 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa fea"}}
+Completed: 400 message:  Time response: 6 ms Request ID: [630011dc-aeba-441e-ac65-d2fd65704c64]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:36:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa fea"}}
+Completed: 400 message:  Time response: 22 ms Request ID: [180a1a86-3df5-4494-b19c-ffc6c49692fe]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:39:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa fea"}}
+Completed: 400 message:  Time response: 39 ms Request ID: [b60df10e-d235-4336-8b1d-ff2c153b7c76]
+
+Started POST /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Jan 08 2024 20:46:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"playa fea"}}
+Completed: 400 message:  Time response: 24 ms Request ID: [00f02739-541a-432c-8802-80a7925ba98e]

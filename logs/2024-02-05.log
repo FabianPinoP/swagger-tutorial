@@ -1,0 +1,52 @@
+
+Started POST /api/v1/auth_user for :: ::1 at Mon Feb 05 2024 20:08:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"email":"example@test.com","password":"secretPassword"}
+Completed: 500 message:  Time response: 7 ms Request ID: [97c2b06e-614b-4be5-89ec-45ab2b0664fc]
+
+Started GET /api/v1/travels for :: ::1 at Mon Feb 05 2024 20:09:26 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [c9767506-bfb3-4916-881c-14fb78941a15]
+
+Started GET /api/v1/travels for :: ::1 at Mon Feb 05 2024 20:09:52 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [98138c54-29ba-4feb-b070-a4c5a00a5400]
+
+Started GET /api/v1/travels for :: ::1 at Mon Feb 05 2024 20:10:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 51 ms Request ID: [01c9627c-a10a-492b-a322-e1ac71a5d394]
+
+Started GET /api/v1/travels for :: ::1 at Mon Feb 05 2024 20:10:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 5 ms Request ID: [95483be2-248f-41cd-93fa-d74c6322cd3e]
+
+Started POST /api/v1/users for :: ::1 at Mon Feb 05 2024 20:15:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"nombre":"The New Turing Omnibus","apellido":"Alexander K. Dewdney","email":"user@test.com","password":"password"}}
+Completed: 201 message:  Time response: 128 ms Request ID: [4f74ff0e-2ddb-467c-8a5d-394d5342c23a]
+
+Started PUT /api/v1/travels/9 for :: ::1 at Mon Feb 05 2024 20:24:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"destino":"paris","presupuesto":1000}
+Started GET /api/v1/travels for :: ::1 at Mon Feb 05 2024 20:28:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 40 ms Request ID: [8d0b8a13-6efd-47a5-ae47-28126656b925]
+
+Started DELETE /api/v1/travels/9 for :: ::1 at Mon Feb 05 2024 20:54:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 68 ms Request ID: [b89947ab-994b-4802-9028-3ca96132463a]
+
+Started PUT /api/v1/travels/10 for :: ::1 at Mon Feb 05 2024 20:55:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"destino":"paris","presupuesto":1000}
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Mon Feb 05 2024 20:56:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 200 message:  Time response: 140 ms Request ID: [ee03511c-d066-44c0-97fa-28f1890a4ec5]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Mon Feb 05 2024 20:56:16 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [59f908cc-baf7-470c-8d6b-39f58cac753f]
+
+Started PUT /api/v1/travels/10 for :: ::1 at Mon Feb 05 2024 20:57:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":1000}}
+Completed: 200 message:  Time response: 143 ms Request ID: [8f115684-b891-422c-85c5-507bd605e0b0]
+
+Started GET /api/v1/travels/10 for :: ::ffff:127.0.0.1 at Mon Feb 05 2024 20:58:30 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [e22e5045-65f6-4db5-9638-d83d9c59c67a]

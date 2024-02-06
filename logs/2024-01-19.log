@@ -1,0 +1,80 @@
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:17:12 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:17:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 28 ms Request ID: [1cab1324-a9d2-48ec-b1b6-5b1fb9a0a522]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:20:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 22 ms Request ID: [26797af8-81bd-46fc-80de-d8be714983b0]
+
+Started GET /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:21:12 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 14 ms Request ID: [ac0d2e02-5f84-46b0-9e92-124d878c0192]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:22:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 29 ms Request ID: [4693c9ba-f477-495a-afb8-37ef9daac6de]
+
+Started GET /api/v1/travels/7 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:23:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 22 ms Request ID: [b43d8628-d79b-467b-91e4-09cd8fce2f33]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:24:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [11f3b497-6d75-4229-9bfa-753f23090e65]
+
+Started GET /travels/5 for :: ::1 at Thu Jan 18 2024 21:25:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [ed76e4a2-c026-41e0-9e51-832c9a5cda1b]
+
+Started GET /api/v1/travels/5 for :: ::1 at Thu Jan 18 2024 21:25:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [2064b9db-96f1-47ec-a736-ff5be4450d7a]
+
+Started GET /favicon.ico for :: ::1 at Thu Jan 18 2024 21:25:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [056a5e32-ba33-4c9a-9cb4-cb2e19b21f82]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:26:11 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [b7cdb45e-fe1e-4547-a86e-7c47db054e9a]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:26:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [34fd3137-37ea-403c-bceb-8e9295c7f25c]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:27:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [8fbfa249-e1ed-4e9c-af6e-6eea874ef594]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:27:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 24 ms Request ID: [947dc433-fa40-4dac-925c-04d7b633b7bd]
+
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:48:11 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":4000}}
+Completed: 200 message:  Time response: 26 ms Request ID: [49946ea0-132c-4a40-8261-b51a7f1e19d2]
+
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:50:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Completed: 200 message:  Time response: 18 ms Request ID: [a41c90ac-fddd-4bae-9728-4cc7777fbac7]
+
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:51:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:52:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:52:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:53:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Completed: 400 message:  Time response: 24 ms Request ID: [9e332519-b8f9-4a81-b518-4a51a74b616b]
+
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:53:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Completed: 400 message:  Time response: 19 ms Request ID: [2ee5e8d8-5cd9-4410-9d54-cd0da69e8a51]
+
+Started PUT /api/v1/travels/5 for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 21:53:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"paris","presupuesto":12000}}
+Completed: 200 message:  Time response: 27 ms Request ID: [a248116e-bc6f-45ef-8fe9-4c63a90e83f4]

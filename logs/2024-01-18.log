@@ -1,0 +1,28 @@
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:10:19 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 93 ms Request ID: [be6bcfac-4e31-4afa-91cb-30366af13424]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:19:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 31 ms Request ID: [ef5bf846-0737-48fc-9c87-f5c06a5ee2a7]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:25:54 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [79719380-44c2-410f-87d3-722be9176948]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:26:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [9c9f2e1f-24cb-4cfe-ad23-b60e1c9ab6e3]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:39:43 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":2,"filters":{"presupuesto":40000}}
+Completed: 200 message:  Time response: 30 ms Request ID: [5e11bf24-dfc9-4cbd-a47a-3ed7a85af62d]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:40:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":2,"filters":{"destino":"playa fea","presupuesto":40000}}
+Completed: 200 message:  Time response: 14 ms Request ID: [f24e33f9-6f58-41d8-9c9e-70affa69c277]
+
+Started GET /api/v1/filter_travels for :: ::ffff:127.0.0.1 at Thu Jan 18 2024 20:41:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"items":1,"page":2,"filters":{"destino":"playa fea","presupuesto":40000}}
+Completed: 200 message:  Time response: 23 ms Request ID: [730277d5-1a1e-485b-b62b-777ff4f8d681]

@@ -1,0 +1,12 @@
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 21:00:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 31 ms Request ID: [1696d1d9-cc0e-4fdc-80aa-2312860dfed8]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 21:04:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [bba2748c-a4d2-49b0-81cb-09dd343ac8db]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Mon Jan 15 2024 21:04:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [5b3dfb42-9e4b-4485-a4cd-47e659a26ae6]
