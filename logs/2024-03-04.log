@@ -1,0 +1,8 @@
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Mon Mar 04 2024 13:57:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"nombre":"Cristobal","apellido":"Dewdney","email":"cristobal@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 129 ms Request ID: [2e0e66d6-a59d-4ab1-98cf-e293804d9201]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Mon Mar 04 2024 13:58:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"nombre":"Cristobal","apellido":"Dewdney","email":"cristobal@test.com","password":"123456"}}
+Completed: 201 message:  Time response: 139 ms Request ID: [9911855e-7bd9-4f31-9739-bd9783606c31]

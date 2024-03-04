@@ -63,10 +63,10 @@ EXECUTE PROCEDURE update_updated_at_equipamiento();
 
 CREATE TABLE usuarios (
     id SERIAL PRIMARY KEY, 
-    nombre VARCHAR(50) NOT NULL, 
-    apellido VARCHAR(50) NOT NULL, 
-    email VARCHAR(50) NOT NULL, 
-    password VARCHAR(50) NOT NULL,
+    nombre VARCHAR(250) NOT NULL, 
+    apellido VARCHAR(250) NOT NULL, 
+    email VARCHAR(250) NOT NULL, 
+    password VARCHAR NOT NULL,
     created_at TIMESTAMP NOT NULL DEFAULT NOW(),
     updated_at TIMESTAMP NOT NULL DEFAULT NOW()
 );
