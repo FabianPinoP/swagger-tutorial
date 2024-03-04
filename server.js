@@ -15,7 +15,7 @@ app.use(express.json());
 app.options('*', cors())
 app.use(logger());
 app.get("/", (req, res) => {
-  res.send("api en linea");
+  res.status(200).json({message: "bienvenido a la api de viajes"});
 });
 app.use("/api/v1", userRoutes);
 app.use("/api/v1", travelsRouter);
