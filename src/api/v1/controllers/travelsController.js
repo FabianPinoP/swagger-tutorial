@@ -133,8 +133,9 @@ const filterTravels = async (req, res) => {
 
 const getTravelsWithHateoas = async (req, res) => {
   try {
+    const { items, page } = req.query;
     const travels = await getTravels();
-    const travelsWithHateoas = await prepareHateoas("travels", travels);
+    const travelsWithHateoas = await prepareHateoas("travels", travels, items, page);
     res.status(200).json({ travels: travelsWithHateoas });
   } catch (error) {
     console.log("error", error);

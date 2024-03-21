@@ -1,0 +1,32 @@
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Wed Mar 20 2024 21:31:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 11 ms Request ID: [45dfe53c-d878-463e-aad1-bf70e67bf93a]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Wed Mar 20 2024 21:31:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user":{"email":"tocayo2@test.com","password":"123456"}}
+Completed: 200 message:  Time response: 111 ms Request ID: [fef940a3-0cb4-40b1-905d-11cd550becb7]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Wed Mar 20 2024 21:31:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [a398ca67-6fdb-4df3-9def-bace7bbc931e]
+
+Started GET /api/v1/travels for :: ::1 at Wed Mar 20 2024 21:32:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 16 ms Request ID: [cfa56008-8e20-4fbb-b86f-2d6c78d4a7fd]
+
+Started POST /api/v1/travels for :: ::1 at Wed Mar 20 2024 21:40:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"chiloe","presupuesto":10000}}
+Completed: 201 message:  Time response: 38 ms Request ID: [9d55583e-fb03-467b-8c59-19ce5764b92f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Wed Mar 20 2024 21:41:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 31 ms Request ID: [a40fcdda-7882-4268-9271-c846f783d08a]
+
+Started PUT /api/v1/travels/6 for :: ::1 at Wed Mar 20 2024 21:43:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"travel":{"destino":"arica","presupuesto":50000}}
+Completed: 200 message:  Time response: 22 ms Request ID: [d0540b16-755b-4250-9f53-f165218901b2]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Wed Mar 20 2024 21:43:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 13 ms Request ID: [11f9ece8-8a54-4117-bcbe-c50beb236256]

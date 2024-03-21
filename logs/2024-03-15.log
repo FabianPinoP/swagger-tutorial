@@ -1,0 +1,52 @@
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 14:58:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 31 ms Request ID: [e965a283-23b2-47e8-83ca-8c761e929f64]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:00:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [fdba343a-a2e8-4270-b74c-633a6327e159]
+
+Started GET /api/v1/travels_with_hateoas for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:00:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [09b3e575-1c3e-4cdf-8882-5b735c8187f8]
+
+Started GET /api/v1/travels_with_hateoas?items=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:01:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [8e794bad-a200-4246-9cf0-8cc99fa249f0]
+
+Started GET /api/v1/travels_with_hateoas?items=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:03:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [b3fb9a93-5445-4173-b7f8-a576861d3def]
+
+Started GET /api/v1/travels_with_hateoas?items=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:04:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [6901cd4b-7cfa-471e-b9af-60784f805bb4]
+
+Started GET /api/v1/travels_with_hateoas?items=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:10:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/travels_with_hateoas?items=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:10:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v1/travels_with_pagination?items=4&page=5 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:13:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [d603e1b7-99e3-4c10-946c-081ad516a168]
+
+Started GET /api/v1/travels_with_pagination?items=2&page=1 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:15:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [1d4362e3-4d15-4809-9696-00ee71ba5885]
+
+Started GET /api/v1/travels_with_pagination?items=4&page=1 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:16:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [eca34f5b-490b-45fc-bd89-3c98e10bba5f]
+
+Started GET /api/v1/travels_with_hateoas?items=2&page=1 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:17:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [0ae4ea8e-6c9a-4245-8343-c425d500f51a]
+
+Started GET /api/v1/travels_with_hateoas?items=2&page=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:17:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [b1329cfc-f9e3-4114-b2ba-98b89e1f16f0]
+
+Started GET /api/v1/travels_with_hateoas?items=2&page=2 for :: ::ffff:127.0.0.1 at Fri Mar 15 2024 15:17:52 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [e16c52a9-884b-436c-9dc6-ed8746dfa3d1]

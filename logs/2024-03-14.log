@@ -1,0 +1,112 @@
+
+Started POST /api/v2/tags for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 12:57:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"tag":{"nombre":"santiago","color":"green"}}
+Completed: 201 message:  Time response: 25 ms Request ID: [c163a44f-301d-42fe-9f9f-6b59f90c5b7f]
+
+Started POST /api/v2/user_tags for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:03:43 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user_tag":{"user_id":1,"tag_id":1}}
+Completed: 500 message:  Time response: 39 ms Request ID: [2bae2a12-28ff-4fa8-94fc-3165d1968957]
+
+Started POST /api/v2/user_tags for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:04:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"user_tag":{"user_id":1,"tag_id":1}}
+Completed: 201 message:  Time response: 30 ms Request ID: [cafbffbb-8ff1-4e7c-8394-b8947ee576f9]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:05:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [fce65a09-7f63-45c3-8821-c7d1b217e29c]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:06:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:07:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 37 ms Request ID: [126900a3-6d30-49ec-9b62-3d05c7e8da79]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:08:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [3d1048ee-1eab-4690-9262-f9db9fe57d0b]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:11:07 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:16:10 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:26:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:29:05 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 13:29:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:30:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:30:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:30:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:31:12 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 25 ms Request ID: [3651dc6d-0088-47ee-bbd1-72abc6801ec0]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:32:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:32:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:33:16 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:37:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 40 ms Request ID: [2d1f1e9a-466d-42ed-98a2-348d8ef7718b]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:47:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 78 ms Request ID: [daaccec1-179c-4577-9548-d468ca03f4e1]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:48:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:50:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:50:46 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 25 ms Request ID: [54a5ab94-149c-43aa-878d-b6aae31e8c61]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:53:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:53:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 15:53:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 29 ms Request ID: [7a7d842e-bd88-491d-a27f-769f18dd3253]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 16:18:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 85 ms Request ID: [9ceff76e-6bf8-491e-afd8-5af98b990369]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 16:19:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 28 ms Request ID: [03a5e7ec-2104-49e3-9940-1e28ad85c223]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:27:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 61 ms Request ID: [669a730c-d638-4ceb-8b11-0fa3f5d52eb4]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:28:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 28 ms Request ID: [ef3b40d6-af2a-4372-8a6a-9c8915a8eb38]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:30:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:30:41 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 30 ms Request ID: [29b19028-de5d-40d5-9c6f-039748e114db]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:31:46 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 26 ms Request ID: [5f4a842b-bad0-4e8c-a600-d878ca0e2a34]
+
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:38:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:39:17 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:39:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /api/v2/users/1 for :: ::ffff:127.0.0.1 at Thu Mar 14 2024 17:40:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 39 ms Request ID: [0d596c34-5097-43ee-a72c-24217864e7cb]

@@ -1,0 +1,54 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model equipamiento {
+  id         Int      @id @default(autoincrement())
+  nombre     String?  @db.VarChar(50)
+  created_at DateTime @default(now()) @db.Timestamp(6)
+  updated_at DateTime @default(now()) @db.Timestamp(6)
+}
+
+model usuarios {
+  id         Int      @id @default(autoincrement())
+  nombre     String   @db.VarChar(50)
+  apellido   String   @db.VarChar(50)
+  email      String   @db.VarChar(50)
+  created_at DateTime @default(now()) @db.Timestamp(6)
+  updated_at DateTime @default(now()) @db.Timestamp(6)
+  password   String   @db.VarChar
+  tags       userTags[]
+}
+
+model viajes {
+  id          Int      @id @default(autoincrement())
+  destino     String   @db.VarChar(250)
+  presupuesto Int
+  created_at  DateTime @default(now()) @db.Timestamp(6)
+  updated_at  DateTime @default(now()) @db.Timestamp(6)
+}
+
+model tags {
+  id         Int      @id @default(autoincrement())
+  nombre     String   @db.VarChar(50)
+  color      String   @db.VarChar(50)
+  created_at DateTime @default(now()) @db.Timestamp(6)
+  updated_at DateTime @default(now()) @db.Timestamp(6)
+  usuarios   userTags[]
+}
+
+model userTags {
+  id        Int      @id @default(autoincrement())
+  usuario   usuarios @relation(fields: [usuario_id], references: [id])
+  usuario_id Int
+  tag       tags     @relation(fields: [tag_id], references: [id])
+  tag_id     Int
+  created_at DateTime @default(now()) @db.Timestamp(6)
+  updated_at DateTime @default(now()) @db.Timestamp(6)
+  @@index([usuario_id, tag_id])
+}
