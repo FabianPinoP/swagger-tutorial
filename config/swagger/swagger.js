@@ -11,8 +11,8 @@ const options = {
     },
     servers: [
       {
-        // url: "https://swagger-tutorial.onrender.com/api/v1",
-        url: "http://localhost:3000/api/v1",
+        url: "https://swagger-tutorial.onrender.com/api/v1",
+        // url: "http://localhost:3000/api/v1",
       },
     ],
   },
