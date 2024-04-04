@@ -35,7 +35,7 @@ app.use("/api/v2", userTagsV2);
 
 app.listen(PORT, () => {
   console.log(`Example app listening at http://localhost:${PORT}`);
-  // console.log(`Swagger local docs available at http://localhost:${PORT}/api/v1/docs`);
+  console.log(`Swagger local docs available at http://localhost:${PORT}/api/v1/docs`);
   console.log(
     `Swagger production documents available at https://swagger-tutorial.onrender.com/api/v1/docs`
   );
